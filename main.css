@@ -45,7 +45,7 @@ body{
 .wheel span{
     position: absolute;
     left: calc(50% - 1px);
-    width: 2px;
+    width: 3px;
     height: 100%;
     background: #99ff39;
     transform: rotate(calc(45deg * var(--i)));
